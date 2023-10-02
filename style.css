@@ -1,0 +1,53 @@
+#first
+{    display: flex;
+     font-family: 'Poppins', sans-serif;
+    
+    background-color: #FFF1FA;
+    margin-bottom: 10%;
+    
+
+}
+#primediv{
+    margin-top:100px ;
+    margin-left: 9%;
+}
+#order{
+    color: #F5F5F5;
+    text-decoration: none;
+    background-image: linear-gradient(orange ,tomato);
+    padding: 10px 40px;
+    border-radius: 40%;
+}
+#skip
+{
+    color: orange;
+}
+#firstimg
+{
+    margin-left: 20%;
+}
+#two{
+
+}
+#center
+{
+    text-align: center;
+}
+#three{
+    display: flex;
+}
+#foodone{
+   margin-left: 10%;
+   box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+   padding-left: 10px;
+   padding-top: 10px;
+   padding-right: 10px;
+}
+#foodtwo{
+
+margin-left: 25%;
+box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+   padding-left: 10px;
+   padding-top: 10px;
+   padding-right: 10px;
+}
